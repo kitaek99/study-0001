@@ -1,2 +1,2 @@
-# study0001
+# study-0001
 git study
